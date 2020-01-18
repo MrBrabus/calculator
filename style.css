@@ -1,0 +1,27 @@
+ul {
+    
+    background-color: aquamarine;
+}
+
+.jumbotron {
+    margin-top: 25px;
+}
+
+
+.border{
+    padding: 10px;
+    max-width: 200px;
+    border-radius: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aquamarine;
+}
+
+.dugme {
+  text-align: center;
+}
+
+.rezultat{
+    font-size: 20px;
+    text-align: center;
+}
